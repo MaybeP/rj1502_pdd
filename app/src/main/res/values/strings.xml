@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">rj1502_pdd</string>
+    <string name="author">嵌入式课程设计\n15408300228\n2019.1.1</string>
+
+    <string name="title_activity_music_info">Music_info</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_music_play">Music_play</string>
+</resources>
